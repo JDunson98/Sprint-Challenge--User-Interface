@@ -207,3 +207,40 @@ footer nav a {
 .box10 {
     background-color: dodgerblue;
 }
+
+.button {
+    border-radius: 10px;
+    border: 2px solid black;
+    padding: 5px 10px;
+    margin-top: 2%;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.top-introduction {
+    text-align: center;
+    width: 60%;
+}
+
+.about-info {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    width: 100%;
+    height: 100%;
+}
+
+.about-info-box {
+    width: 50%;
+    height: 100%;
+    padding: 20px;
+    border-bottom: 1px dashed;
+}
+
+.lets-work-together {
+    margin-top: 30px;
+}
